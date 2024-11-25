@@ -30,25 +30,21 @@ Stay tuned as I bring these skills to life in upcoming projects!
 
 ### Top Projects  
 
+- [**Infrastructure Automation with Terraform and Ansible**](https://github.com/Shanmeistro/infra-automation-ansible-terraform)  
+  *This project demonstrates automated infrastructure provisioning and configuration on AWS and Azure using Terraform and Ansible. It provides a template for setting up both cloud-native and hybrid cloud environments.*  
+
+- [**My Awesome Shell Setup**](https://github.com/Shanmeistro/my-awesome-shell-setup)  
+  *Custom shell and IDE setups to optimize developer productivity.*  
+
 - [**DevOps Master Class**](https://github.com/Shanmeistro/devops-master-class)  
   *Comprehensive tutorial for DevOps beginners, covering Docker, Kubernetes, Terraform, and more.*  
-
-- [**Shell and IDE Customization**](https://github.com/Shanmeistro/Shell_and_IDE_Customisation)  
-  *Custom shell and IDE setups to optimize developer productivity.*  
 
 - [**MyTestServer**](https://github.com/Shanmeistro/MyTestServer)  
   *A test server setup for DevOps assessments and CI/CD pipelines.*  
 
-### GitHub Stats  
+## Launching CodeStack Ops website!
 
-"Looking to increase these stats with meaningful contributions. Let’s build something together!"
-
-![Shannon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shanmeistro&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmeistro&layout=compact&theme=radical)  
-
-## Latest Blog Posts
-
-Blog content is coming soon! I’ll be sharing tips, tutorials, and insights on DevOps, SysAdmin, and Full Stack topics. Stay tuned!
+My new website is coming soon and will feature content! I’ll be sharing tips, tutorials, and insights on DevOps, SysAdmin, and Full Stack topics. Stay tuned!
 
 ## Connect with Me
 
